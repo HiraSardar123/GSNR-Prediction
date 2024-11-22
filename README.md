@@ -1,6 +1,6 @@
-# Machine Learning Projects Repository
+# GSNR-Prediction Repository
 
-Welcome to the Machine Learning Projects repository! This repository contains a collection of real-world projects focused on Machine Learning and Deep Learning specializations.
+Welcome to the GSNR-Prediction repository! This repository contains a collection of real-world projects focused on Machine Learning and Deep Learning.
 
 ## Project Overview
 
